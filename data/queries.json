@@ -1,0 +1,23 @@
+[
+    {"id": 1, "query": "Summarize the main trends in business news coverage across different publishers."},
+    {"id": 2, "query": "Identify key technology topics that appear most frequently in the dataset."},
+    {"id": 3, "query": "Compare how business and technology articles discuss innovation."},
+    {"id": 4, "query": "Which publishers are most active in health and medical reporting, and what common themes do they emphasize?"},
+    {"id": 5, "query": "Generate a factual summary of entertainment-related articles mentioning films or celebrities."},
+    {"id": 6, "query": "Analyze how business and health news overlap on topics such as pharmaceuticals or healthcare finance."},
+    {"id": 7, "query": "Compare how technology and entertainment news use similar keywords such as 'mobile', 'app', or 'AI'."},
+    {"id": 8, "query": "Summarize emerging technology stories that involve major companies or brands."},
+    {"id": 9, "query": "Which regions or publishers contribute most to technology-related content?"},
+    {"id": 10, "query": "Summarize how economic and financial topics are portrayed in business articles."},
+    {"id": 11, "query": "Identify the most cited companies or products within technology news titles."},
+    {"id": 12, "query": "Find examples where entertainment news overlaps with technology (e.g., streaming, gaming)."},
+    {"id": 13, "query": "Summarize health-related stories that also mention government policy or regulation."},
+    {"id": 14, "query": "Compare tone and sentiment between business and entertainment articles."},
+    {"id": 15, "query": "Generate a cross-category summary showing how AI, data, or innovation are discussed in business, technology, and health."},
+    {"id": 16, "query": "Identify the most common words and phrases used in business article titles."},
+    {"id": 17, "query": "Summarize trends in technology company launches and acquisitions."},
+    {"id": 18, "query": "Which sources appear most frequently in each category?"},
+    {"id": 19, "query": "Compare coverage of global versus local publishers on business topics."},
+    {"id": 20, "query": "Summarize how the entertainment industry discusses diversity or representation."}
+  ]
+  
