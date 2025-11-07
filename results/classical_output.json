@@ -1,0 +1,698 @@
+[
+    {
+        "id": 280701,
+        "title": "Only 2 people allowed in the delivery room: Pregger Mila Kunis on childbirth",
+        "tokens": [
+            "Only",
+            "2",
+            "people",
+            "allowed",
+            "in",
+            "the",
+            "delivery",
+            "room",
+            ":",
+            "Pregger",
+            "Mila",
+            "Kunis",
+            "on",
+            "childbirth"
+        ],
+        "pos_tags": [
+            [
+                "Only",
+                "ADV"
+            ],
+            [
+                "2",
+                "NUM"
+            ],
+            [
+                "people",
+                "NOUN"
+            ],
+            [
+                "allowed",
+                "VERB"
+            ],
+            [
+                "in",
+                "ADP"
+            ],
+            [
+                "the",
+                "DET"
+            ],
+            [
+                "delivery",
+                "NOUN"
+            ],
+            [
+                "room",
+                "NOUN"
+            ],
+            [
+                ":",
+                "PUNCT"
+            ],
+            [
+                "Pregger",
+                "PROPN"
+            ],
+            [
+                "Mila",
+                "PROPN"
+            ],
+            [
+                "Kunis",
+                "PROPN"
+            ],
+            [
+                "on",
+                "ADP"
+            ],
+            [
+                "childbirth",
+                "NOUN"
+            ]
+        ],
+        "entities": [
+            [
+                "Only 2",
+                "CARDINAL"
+            ],
+            [
+                "Mila Kunis",
+                "PERSON"
+            ]
+        ],
+        "tfidf_keywords": [
+            "pregger",
+            "people"
+        ],
+        "sentiment_score": 0.0
+    },
+    {
+        "id": 96509,
+        "title": "A wealth of info, a welter of questions",
+        "tokens": [
+            "A",
+            "wealth",
+            "of",
+            "info",
+            ",",
+            "a",
+            "welter",
+            "of",
+            "questions"
+        ],
+        "pos_tags": [
+            [
+                "A",
+                "DET"
+            ],
+            [
+                "wealth",
+                "NOUN"
+            ],
+            [
+                "of",
+                "ADP"
+            ],
+            [
+                "info",
+                "NOUN"
+            ],
+            [
+                ",",
+                "PUNCT"
+            ],
+            [
+                "a",
+                "DET"
+            ],
+            [
+                "welter",
+                "NOUN"
+            ],
+            [
+                "of",
+                "ADP"
+            ],
+            [
+                "questions",
+                "NOUN"
+            ]
+        ],
+        "entities": [],
+        "tfidf_keywords": [
+            "questions"
+        ],
+        "sentiment_score": 0.0
+    },
+    {
+        "id": 280870,
+        "title": "Robin Thicke Naming Album After Paula Patton…",
+        "tokens": [
+            "Robin",
+            "Thicke",
+            "Naming",
+            "Album",
+            "After",
+            "Paula",
+            "Patton",
+            "…"
+        ],
+        "pos_tags": [
+            [
+                "Robin",
+                "PROPN"
+            ],
+            [
+                "Thicke",
+                "PROPN"
+            ],
+            [
+                "Naming",
+                "PROPN"
+            ],
+            [
+                "Album",
+                "PROPN"
+            ],
+            [
+                "After",
+                "ADP"
+            ],
+            [
+                "Paula",
+                "PROPN"
+            ],
+            [
+                "Patton",
+                "PROPN"
+            ],
+            [
+                "…",
+                "PUNCT"
+            ]
+        ],
+        "entities": [
+            [
+                "Robin Thicke Naming",
+                "PERSON"
+            ],
+            [
+                "Paula Patton",
+                "PERSON"
+            ]
+        ],
+        "tfidf_keywords": [
+            "paula",
+            "patton"
+        ],
+        "sentiment_score": 0.0
+    },
+    {
+        "id": 285435,
+        "title": "Actress And Civil Rights Activist Ruby Dee Dies At 91",
+        "tokens": [
+            "Actress",
+            "And",
+            "Civil",
+            "Rights",
+            "Activist",
+            "Ruby",
+            "Dee",
+            "Dies",
+            "At",
+            "91"
+        ],
+        "pos_tags": [
+            [
+                "Actress",
+                "PROPN"
+            ],
+            [
+                "And",
+                "CCONJ"
+            ],
+            [
+                "Civil",
+                "PROPN"
+            ],
+            [
+                "Rights",
+                "PROPN"
+            ],
+            [
+                "Activist",
+                "PROPN"
+            ],
+            [
+                "Ruby",
+                "PROPN"
+            ],
+            [
+                "Dee",
+                "PROPN"
+            ],
+            [
+                "Dies",
+                "PROPN"
+            ],
+            [
+                "At",
+                "ADP"
+            ],
+            [
+                "91",
+                "NUM"
+            ]
+        ],
+        "entities": [
+            [
+                "91",
+                "CARDINAL"
+            ]
+        ],
+        "tfidf_keywords": [],
+        "sentiment_score": 0.0
+    },
+    {
+        "id": 379532,
+        "title": "Feds to review Ga. Medicaid backlog",
+        "tokens": [
+            "Feds",
+            "to",
+            "review",
+            "Ga.",
+            "Medicaid",
+            "backlog"
+        ],
+        "pos_tags": [
+            [
+                "Feds",
+                "NOUN"
+            ],
+            [
+                "to",
+                "PART"
+            ],
+            [
+                "review",
+                "VERB"
+            ],
+            [
+                "Ga.",
+                "PROPN"
+            ],
+            [
+                "Medicaid",
+                "PROPN"
+            ],
+            [
+                "backlog",
+                "NOUN"
+            ]
+        ],
+        "entities": [
+            [
+                "Feds",
+                "NORP"
+            ],
+            [
+                "Ga.",
+                "GPE"
+            ],
+            [
+                "Medicaid",
+                "ORG"
+            ]
+        ],
+        "tfidf_keywords": [],
+        "sentiment_score": 0.0
+    },
+    {
+        "id": 233727,
+        "title": "VIDEO: Pat Sajak spins climate change on Twitter",
+        "tokens": [
+            "VIDEO",
+            ":",
+            "Pat",
+            "Sajak",
+            "spins",
+            "climate",
+            "change",
+            "on",
+            "Twitter"
+        ],
+        "pos_tags": [
+            [
+                "VIDEO",
+                "NOUN"
+            ],
+            [
+                ":",
+                "PUNCT"
+            ],
+            [
+                "Pat",
+                "PROPN"
+            ],
+            [
+                "Sajak",
+                "PROPN"
+            ],
+            [
+                "spins",
+                "VERB"
+            ],
+            [
+                "climate",
+                "NOUN"
+            ],
+            [
+                "change",
+                "NOUN"
+            ],
+            [
+                "on",
+                "ADP"
+            ],
+            [
+                "Twitter",
+                "PROPN"
+            ]
+        ],
+        "entities": [
+            [
+                "Pat Sajak",
+                "PERSON"
+            ],
+            [
+                "Twitter",
+                "PERSON"
+            ]
+        ],
+        "tfidf_keywords": [],
+        "sentiment_score": 0.0
+    },
+    {
+        "id": 77384,
+        "title": "iPhone 6 design a hot topic among netizens",
+        "tokens": [
+            "iPhone",
+            "6",
+            "design",
+            "a",
+            "hot",
+            "topic",
+            "among",
+            "netizens"
+        ],
+        "pos_tags": [
+            [
+                "iPhone",
+                "NOUN"
+            ],
+            [
+                "6",
+                "NUM"
+            ],
+            [
+                "design",
+                "VERB"
+            ],
+            [
+                "a",
+                "DET"
+            ],
+            [
+                "hot",
+                "ADJ"
+            ],
+            [
+                "topic",
+                "NOUN"
+            ],
+            [
+                "among",
+                "ADP"
+            ],
+            [
+                "netizens",
+                "NOUN"
+            ]
+        ],
+        "entities": [
+            [
+                "6",
+                "CARDINAL"
+            ]
+        ],
+        "tfidf_keywords": [],
+        "sentiment_score": 0.25
+    },
+    {
+        "id": 363681,
+        "title": "Jessica Simpson Ties Knot No. 2",
+        "tokens": [
+            "Jessica",
+            "Simpson",
+            "Ties",
+            "Knot",
+            "No",
+            ".",
+            "2"
+        ],
+        "pos_tags": [
+            [
+                "Jessica",
+                "PROPN"
+            ],
+            [
+                "Simpson",
+                "PROPN"
+            ],
+            [
+                "Ties",
+                "PROPN"
+            ],
+            [
+                "Knot",
+                "PROPN"
+            ],
+            [
+                "No",
+                "NOUN"
+            ],
+            [
+                ".",
+                "NOUN"
+            ],
+            [
+                "2",
+                "NUM"
+            ]
+        ],
+        "entities": [
+            [
+                "Jessica Simpson Ties Knot",
+                "PERSON"
+            ],
+            [
+                "2",
+                "CARDINAL"
+            ]
+        ],
+        "tfidf_keywords": [],
+        "sentiment_score": 0.0
+    },
+    {
+        "id": 247944,
+        "title": "Credit Suisse, Deutsche surprise with Yankee bonds",
+        "tokens": [
+            "Credit",
+            "Suisse",
+            ",",
+            "Deutsche",
+            "surprise",
+            "with",
+            "Yankee",
+            "bonds"
+        ],
+        "pos_tags": [
+            [
+                "Credit",
+                "PROPN"
+            ],
+            [
+                "Suisse",
+                "PROPN"
+            ],
+            [
+                ",",
+                "PUNCT"
+            ],
+            [
+                "Deutsche",
+                "PROPN"
+            ],
+            [
+                "surprise",
+                "NOUN"
+            ],
+            [
+                "with",
+                "ADP"
+            ],
+            [
+                "Yankee",
+                "PROPN"
+            ],
+            [
+                "bonds",
+                "NOUN"
+            ]
+        ],
+        "entities": [
+            [
+                "Credit Suisse",
+                "ORG"
+            ],
+            [
+                "Deutsche",
+                "ORG"
+            ],
+            [
+                "Yankee",
+                "ORG"
+            ]
+        ],
+        "tfidf_keywords": [],
+        "sentiment_score": 0.0
+    },
+    {
+        "id": 177070,
+        "title": "Patent Pinching: Samsung To Pay Apple $120m ..(But Who's The Real Winner?)",
+        "tokens": [
+            "Patent",
+            "Pinching",
+            ":",
+            "Samsung",
+            "To",
+            "Pay",
+            "Apple",
+            "$",
+            "120",
+            "m",
+            "..",
+            "(",
+            "But",
+            "Who",
+            "'s",
+            "The",
+            "Real",
+            "Winner",
+            "?",
+            ")"
+        ],
+        "pos_tags": [
+            [
+                "Patent",
+                "NOUN"
+            ],
+            [
+                "Pinching",
+                "NOUN"
+            ],
+            [
+                ":",
+                "PUNCT"
+            ],
+            [
+                "Samsung",
+                "PROPN"
+            ],
+            [
+                "To",
+                "PART"
+            ],
+            [
+                "Pay",
+                "VERB"
+            ],
+            [
+                "Apple",
+                "PROPN"
+            ],
+            [
+                "$",
+                "SYM"
+            ],
+            [
+                "120",
+                "NUM"
+            ],
+            [
+                "m",
+                "NUM"
+            ],
+            [
+                "..",
+                "PUNCT"
+            ],
+            [
+                "(",
+                "PUNCT"
+            ],
+            [
+                "But",
+                "CCONJ"
+            ],
+            [
+                "Who",
+                "PRON"
+            ],
+            [
+                "'s",
+                "AUX"
+            ],
+            [
+                "The",
+                "DET"
+            ],
+            [
+                "Real",
+                "ADJ"
+            ],
+            [
+                "Winner",
+                "NOUN"
+            ],
+            [
+                "?",
+                "PUNCT"
+            ],
+            [
+                ")",
+                "PUNCT"
+            ]
+        ],
+        "entities": [
+            [
+                "120",
+                "MONEY"
+            ]
+        ],
+        "tfidf_keywords": [
+            "real",
+            "pinching",
+            "pay",
+            "patent",
+            "120m"
+        ],
+        "sentiment_score": 0.2
+    }
+]

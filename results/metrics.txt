@@ -1,0 +1,13 @@
+VERIFIER METRICS
+
+Factual precision (>= 0.8): None
+Total cited snippets: 0
+Supported snippets: 0
+
+Contradiction rate (NLI threshold=0.5): None
+Contradicted pairs: 0 / 0
+
+Temporal inconsistency rate: None
+Date checks performed: 0
+
+Per-claim summary (claim_id: supported_any_snippet, contradicted, temporal_inconsistent)

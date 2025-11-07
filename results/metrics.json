@@ -1,0 +1,11 @@
+{
+  "factual_precision": null,
+  "factual_total_snippets": 0,
+  "factual_supported_snippets": 0,
+  "contradiction_rate": null,
+  "contradicted_pairs": 0,
+  "contradiction_total_pairs": 0,
+  "temporal_inconsistency_rate": null,
+  "temporal_total_checks": 0,
+  "per_claim": []
+}
